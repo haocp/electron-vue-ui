@@ -56,8 +56,8 @@
 </script>
 
 <style lang="scss" type="text/scss" scoped>
-    @import "~@/styles/mixin.scss";
-    @import "~@/styles/variables.scss";
+    @import "~@/assets/styles/mixin.scss";
+    @import "~@/assets/styles/variables.scss";
 
     .app-wrapper {
         @include clearfix;
